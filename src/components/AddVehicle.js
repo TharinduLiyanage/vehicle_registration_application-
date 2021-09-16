@@ -36,7 +36,7 @@ export const AddVehicle = () => {
                             <input className="form-control" style={{marginBottom: '2%'}} placeholder="Owner ID"/>
                             <input className="form-control" style={{marginBottom: '2%'}} placeholder="Owner Addres"/>
                                 <input className="form-control" style={{marginBottom: '2%'}}
-                                       placeholder="Vehicle Number"/>
+                                       placeholder="Vehicle license plate"/>
                                 <input className="form-control" style={{marginBottom: '2%'}} placeholder="Model"/>
                                 <input className="form-control" style={{marginBottom: '2%'}} placeholder="Year"/>
                                 <input className="form-control" style={{marginBottom: '2%'}} placeholder="Make"/>

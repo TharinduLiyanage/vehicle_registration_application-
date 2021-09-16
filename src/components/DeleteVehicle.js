@@ -36,7 +36,7 @@ export const DeleteVehicle= () => {
                             <input
                                 className="form-control"
                                 style={{ marginBottom: "2%" }}
-                                placeholder="Vehicle Number"
+                                placeholder="Vehicle license plate"
                             />
 
                            

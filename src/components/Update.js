@@ -36,7 +36,7 @@ export const Update = () => {
               <input
                 className="form-control"
                 style={{ marginBottom: "2%" }}
-                placeholder="Vehicle Number"
+                placeholder="Vehicle license plate"
               />
               <button type="button" class="btn btn-primary btn-lg">
                 Show details
